@@ -1,7 +1,7 @@
 dubfiction
 ==========
 
-A tool to aid in dub fiction remixes, a la Jeff Noon: http://www.metamorphiction.com/index.php/the-ghost-on-the-b-side-remixing-narrative
+A tool to aid in dub fiction remixes, a la Jeff Noon: https://web.archive.org/web/20160304064129/http://www.metamorphiction.com/index.php/the-ghost-on-the-b-side-remixing-narrative/
 
 Written (badly) in go. Install it with a go get github.com/gilesp/dubfiction or similar command
 
